@@ -9,3 +9,5 @@ of the underlying Ornstein-Uhlenbeck mean reversing stochastic process. Then, a 
 
 The file "runAssignment7_group11.m"" is the main file to run the project. Regarding the second exercise, the most relevant files are "bermudan_tree.m" 
 and "swaptionPriceJamshidian.m". 
+
+The final report is present, as "Assignment07_Group11".
